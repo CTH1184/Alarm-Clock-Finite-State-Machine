@@ -1,0 +1,75 @@
+vsim -gui work.piezo_freq_cnt_tb
+# vsim -gui work.piezo_freq_cnt_tb 
+# Start time: 16:53:24 on Nov 30,2023
+# Loading sv_std.std
+# Loading work.piezo_freq_cnt_tb
+# Loading work.piezo_freq_cnt
+# Loading work.piezo_monitor
+# Loading work.d_ff
+run -all
+# GOOD: 1st test check1 passed
+# GOOD: 1st test check2 passed
+# GOOD: 2nd test passed
+# GOOD: 3rd test check1 passed
+# GOOD: 3rd test check2 passed
+# YAHOO! all tests passed!
+# ** Note: $stop    : C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv(61)
+#    Time: 1643050 ps  Iteration: 1  Instance: /piezo_freq_cnt_tb
+# Break in Module piezo_freq_cnt_tb at C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv line 61
+vsim -gui work.piezoSM_tb
+# End time: 16:54:49 on Nov 30,2023, Elapsed time: 0:01:25
+# Errors: 0, Warnings: 1
+# vsim -gui work.piezoSM_tb 
+# Start time: 16:54:49 on Nov 30,2023
+# Loading sv_std.std
+# Loading work.piezoSM_tb
+# Loading work.piezoSM
+# Loading work.state5_reg
+# Loading work.d_ff
+run -all
+# Check 0 passed
+# Check 1 passed
+# Check 2 passed
+# Check 3 passed
+# Check 4 passed
+# Check 5 passed
+# Check 6 passed
+# Check 7 passed
+# Check 8 passed
+# Check 9 passed
+# Check 10 passed
+# Check 11 passed
+# YAHOO!! test of piezoSM passed!
+# ** Note: $stop    : C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv(110)
+#    Time: 260 ps  Iteration: 1  Instance: /piezoSM_tb
+# Break in Module piezoSM_tb at C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv line 110
+vsim -gui work.piezo_freq_cnt
+# End time: 18:18:56 on Nov 30,2023, Elapsed time: 1:24:07
+# Errors: 0, Warnings: 1
+# vsim -gui work.piezo_freq_cnt 
+# Start time: 18:18:57 on Nov 30,2023
+# Loading sv_std.std
+# Loading work.piezo_freq_cnt
+# Loading work.d_ff
+vsim -gui work.piezo_freq_cnt_tb
+# End time: 18:19:15 on Nov 30,2023, Elapsed time: 0:00:18
+# Errors: 0, Warnings: 1
+# vsim -gui work.piezo_freq_cnt_tb 
+# Start time: 18:19:15 on Nov 30,2023
+# Loading sv_std.std
+# Loading work.piezo_freq_cnt_tb
+# Loading work.piezo_freq_cnt
+# Loading work.piezo_monitor
+# Loading work.d_ff
+run -all
+# GOOD: 1st test check1 passed
+# GOOD: 1st test check2 passed
+# GOOD: 2nd test passed
+# GOOD: 3rd test check1 passed
+# GOOD: 3rd test check2 passed
+# YAHOO! all tests passed!
+# ** Note: $stop    : C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv(61)
+#    Time: 1643050 ps  Iteration: 1  Instance: /piezo_freq_cnt_tb
+# Break in Module piezo_freq_cnt_tb at C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv line 61
+# End time: 18:24:53 on Nov 30,2023, Elapsed time: 0:05:38
+# Errors: 0, Warnings: 1

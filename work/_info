@@ -1,0 +1,1053 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAHW5
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1701384584
+!i10b 1
+!s100 EC7:@e0o]m:zMALR1WiBL3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=ld@GJC?4^Qc3[V>eYe_l1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5
+Z5 w1701303284
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/AHW5.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/AHW5.sv
+!i122 115
+L0 1 171
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1701384584.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/AHW5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/AHW5.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+n@a@h@w5
+vbcd7seg
+R0
+R1
+!i10b 1
+!s100 9^XhZ2KNMNQC=@[PoAO@G1
+R2
+INn8k9`EU4j]NOd6gALeha0
+R3
+S1
+R4
+Z10 w1699568791
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/bcd7seg.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/bcd7seg.sv
+!i122 116
+Z11 L0 1 17
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/bcd7seg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/bcd7seg.sv|
+!i113 1
+R8
+R9
+vclkdiv
+R0
+R1
+!i10b 1
+!s100 bU>3NQL<oAW<cgU7heLMi2
+R2
+IfFL=6;mND[?g_D;PJC^ha0
+R3
+S1
+R4
+Z12 w1699568793
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv.sv
+!i122 117
+L0 8 25
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv.sv|
+!i113 1
+R8
+R9
+vclkdiv4096
+R0
+R1
+!i10b 1
+!s100 Z[H@ljEl2In@77ll7X^X81
+R2
+IOOCdOC=hGl0^59AEZD1B42
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv4096.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv4096.sv
+!i122 119
+L0 5 22
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv4096.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv4096.sv|
+!i113 1
+R8
+R9
+vclkdiv_tb
+R0
+R1
+!i10b 1
+!s100 A>@SH^Ekzh^K8cU=;WmfC1
+R2
+ILMeXbOaGkERNRzmQXnO_B0
+R3
+S1
+R4
+Z13 w1699568797
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv_tb.sv
+!i122 118
+Z14 L0 1 47
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdiv_tb.sv|
+!i113 1
+R8
+R9
+vclkdivComb
+R0
+Z15 !s110 1701384585
+!i10b 1
+!s100 [bCHU5P4N]66AHjBR`;CM2
+R2
+ISZUU@]8T4TaQoNK19JcV=1
+R3
+S1
+R4
+Z16 w1699568796
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdivComb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdivComb.sv
+!i122 120
+L0 10 32
+R6
+r1
+!s85 0
+31
+Z17 !s108 1701384585.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdivComb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clkdivComb.sv|
+!i113 1
+R8
+R9
+nclkdiv@comb
+vclockSM
+R0
+R15
+!i10b 1
+!s100 ]kD4l1^37l7j^Z87nWB4U2
+R2
+I[C4LWQeSmKlBh2<C=UeX50
+R3
+S1
+R4
+w1699568179
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM.sv
+!i122 121
+L0 7 101
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM.sv|
+!i113 1
+R8
+R9
+nclock@s@m
+vclockSM_tb
+R0
+R15
+!i10b 1
+!s100 fUF?Yk]jWPKZfGKbbmSzj3
+R2
+Imz_P^HEH^81B<`dMEVan`1
+R3
+S1
+R4
+Z18 w1699555173
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM_tb.sv
+!i122 122
+L0 1 189
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/clockSM_tb.sv|
+!i113 1
+R8
+R9
+nclock@s@m_tb
+vd_en_ff
+R0
+R15
+!i10b 1
+!s100 9I_KW?Z3S<nX@2P>5]JH[0
+R2
+IXEQaok=R:`B[5L;3[e1FN3
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff.sv
+!i122 123
+L0 7 28
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff.sv|
+!i113 1
+R8
+R9
+vd_en_ff_tb
+R0
+R15
+!i10b 1
+!s100 flcaQE304Y=h]@^BOF>5e2
+R2
+I?<f7__`];RKZ686K:<nSI0
+R3
+S1
+R4
+Z19 w1699568794
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff_tb.sv
+!i122 124
+Z20 L0 1 70
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_en_ff_tb.sv|
+!i113 1
+R8
+R9
+vd_ff
+R0
+R15
+!i10b 1
+!s100 Q<S;[fK>:IDMlTgjN1^i>0
+R2
+I7c_;8l@ELfRc`LCJV2=QD0
+R3
+S1
+R4
+R19
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_ff.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_ff.sv
+!i122 125
+R11
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_ff.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/d_ff.sv|
+!i113 1
+R8
+R9
+vdiv10
+R0
+Z21 !s110 1701384587
+!i10b 1
+!s100 5d[VZ11QeTTW`ZXU2H2V:1
+R2
+IgmdDeUiAl7:5zRek5IFeS0
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10.sv
+!i122 132
+L0 8 39
+R6
+r1
+!s85 0
+31
+Z22 !s108 1701384586.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10.sv|
+!i113 1
+R8
+R9
+vdiv10_tb
+R0
+R21
+!i10b 1
+!s100 :]C_^8<:Yh?lWnLz[z4MB3
+R2
+IlUUC>8IzW:<GDZNVWFZEA0
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10_tb.sv
+!i122 133
+Z23 L0 1 50
+R6
+r1
+!s85 0
+31
+Z24 !s108 1701384587.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10_tb.sv|
+!i113 1
+R8
+R9
+vdiv10Comb
+R0
+R21
+!i10b 1
+!s100 G>hQAN4R?D3T^?b8CPLG<0
+R2
+IRL[b^WI3i>1?hnjFhXPGX0
+R3
+S1
+R4
+R12
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10Comb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10Comb.sv
+!i122 134
+Z25 L0 8 32
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10Comb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div10Comb.sv|
+!i113 1
+R8
+R9
+ndiv10@comb
+vdiv3
+R0
+R15
+!i10b 1
+!s100 KGYG=Qz>Xd`agngo23SN`0
+R2
+IbJWF1dGH[cj<QmYQP^M`o3
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3.sv
+!i122 126
+Z26 L0 8 35
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3.sv|
+!i113 1
+R8
+R9
+vdiv3_tb
+R0
+Z27 !s110 1701384586
+!i10b 1
+!s100 TkdYBOEUh3Hg^J>fSR]_K3
+R2
+IS?@FOPYg;4`SE9iRGnX4C1
+R3
+S1
+R4
+Z28 w1699568795
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3_tb.sv
+!i122 127
+R14
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3_tb.sv|
+!i113 1
+R8
+R9
+vdiv3Comb
+R0
+R27
+!i10b 1
+!s100 OTD`[8mhz@C0DVDF3d@T[0
+R2
+IQ8m3TObXY_T`lVO[MRd?[1
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3Comb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3Comb.sv
+!i122 128
+L0 8 31
+R6
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3Comb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div3Comb.sv|
+!i113 1
+R8
+R9
+ndiv3@comb
+vdiv6
+R0
+R27
+!i10b 1
+!s100 bA`F0DZTD<=a1c`0I`AG92
+R2
+InNM@bDLO_MT@kiJPgQMPe1
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6.sv
+!i122 129
+R26
+R6
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6.sv|
+!i113 1
+R8
+R9
+vdiv6_tb
+R0
+R27
+!i10b 1
+!s100 M?k3c=c3V<I=cV1F;Uk6J1
+R2
+I?;5dz]<0_mC907fd5<KNG1
+R3
+S1
+R4
+R16
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6_tb.sv
+!i122 130
+R23
+R6
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6_tb.sv|
+!i113 1
+R8
+R9
+vdiv6Comb
+R0
+R27
+!i10b 1
+!s100 PHY^4[`<i;RXbPhX=8jNB3
+R2
+I5@d5kiIi3jL5cFN`JR1IV3
+R3
+S1
+R4
+R28
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6Comb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6Comb.sv
+!i122 131
+R25
+R6
+r1
+!s85 0
+31
+R22
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6Comb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/div6Comb.sv|
+!i113 1
+R8
+R9
+ndiv6@comb
+vedge_detect
+R0
+R21
+!i10b 1
+!s100 =<AELBIOLR395J`9fkm]Y0
+R2
+IW7geVmeWaSIViGBK3I4c@0
+R3
+S1
+R4
+w1699565971
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/edge_detect.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/edge_detect.sv
+!i122 135
+L0 9 29
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/edge_detect.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/edge_detect.sv|
+!i113 1
+R8
+R9
+vFA
+R0
+Z29 !s110 1701384588
+!i10b 1
+!s100 0G1OEiGInNaF5MBlAN0<P1
+R2
+IIgAB2Jdnh_^3=46f;O@8K0
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/FA.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/FA.sv
+!i122 136
+L0 5 24
+R6
+r1
+!s85 0
+31
+R24
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/FA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/FA.sv|
+!i113 1
+R8
+R9
+n@f@a
+vpiezo_dur_cnt
+R0
+R29
+!i10b 1
+!s100 BT_EhzI>JM:^No>UREF0X2
+R2
+I_X2_FgJCkA5InQ1:3z85M3
+R3
+S1
+R4
+w1701384317
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt (1).sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt (1).sv
+!i122 137
+Z30 L0 8 38
+R6
+r1
+!s85 0
+31
+Z31 !s108 1701384588.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt (1).sv|
+!i113 1
+R8
+R9
+vpiezo_dur_cnt_tb
+R0
+R29
+!i10b 1
+!s100 `;DkQH7:;@SPf33nln^FJ0
+R2
+IdPGBfDc:lIO:HEAm5c8mF2
+R3
+S1
+R4
+R5
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt_tb.sv
+!i122 138
+L0 1 85
+R6
+r1
+!s85 0
+31
+R31
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_dur_cnt_tb.sv|
+!i113 1
+R8
+R9
+vpiezo_freq_cnt
+R0
+Z32 !s110 1701384589
+!i10b 1
+!s100 Ilk3H_Wlg_3Fb1j]:R1bX2
+R2
+I[S[Fe<2<R`CQ`dmR@o^E:1
+R3
+S1
+R4
+w1701384576
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt (1).sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt (1).sv
+!i122 139
+R30
+R6
+r1
+!s85 0
+31
+Z33 !s108 1701384589.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt (1).sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt (1).sv|
+!i113 1
+R8
+R9
+vpiezo_freq_cnt_tb
+R0
+R32
+!i10b 1
+!s100 fYeZP;ile6PPc;zSom@Hl2
+R2
+I?;6NKlaiR;@^g46M1N@1L3
+R3
+S1
+R4
+R5
+Z34 8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv
+Z35 FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv
+!i122 140
+L0 1 66
+R6
+r1
+!s85 0
+31
+R33
+Z36 !s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
+Z37 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezo_freq_cnt_tb.sv|
+!i113 1
+R8
+R9
+vpiezo_monitor
+R0
+R32
+!i10b 1
+!s100 [RIS71nR::B7O4RoSkK_j2
+R2
+IL<MZSEeXB?YVfjIS:SN3;2
+R3
+S1
+R4
+R5
+R34
+R35
+!i122 140
+L0 68 74
+R6
+r1
+!s85 0
+31
+R33
+R36
+R37
+!i113 1
+R8
+R9
+vpiezoSM
+R0
+R32
+!i10b 1
+!s100 SGTHOZl?_A_3N>R;LJeT`1
+R2
+I?<hkc=j3J>iPJYXeS2LRh2
+R3
+S1
+R4
+w1701383751
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM.sv
+!i122 141
+L0 8 96
+R6
+r1
+!s85 0
+31
+R33
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM.sv|
+!i113 1
+R8
+R9
+npiezo@s@m
+vpiezoSM_tb
+R0
+R32
+!i10b 1
+!s100 3>j>WnDS4iF3TDE_6`QaD2
+R2
+I4RMI]AC06R[STI0OYCJ]12
+R3
+S1
+R4
+R5
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv
+!i122 142
+L0 1 117
+R6
+r1
+!s85 0
+31
+R33
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/piezoSM_tb.sv|
+!i113 1
+R8
+R9
+npiezo@s@m_tb
+vrise_edge_detect
+R0
+Z38 !s110 1701384590
+!i10b 1
+!s100 f6NEYloRg:FakMaSBCR<R2
+R2
+I=S9QN84]zU9m3Y_2aDHT]2
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect.sv
+!i122 143
+L0 9 32
+R6
+r1
+!s85 0
+31
+R33
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect.sv|
+!i113 1
+R8
+R9
+vrise_edge_detect_tb
+R0
+R38
+!i10b 1
+!s100 6EH368nl=Zz`dBOi`fSQB2
+R2
+IZGgVVzIATeC0=5`WSiUHj0
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect_tb.sv
+!i122 144
+L0 1 61
+R6
+r1
+!s85 0
+31
+Z39 !s108 1701384590.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/rise_edge_detect_tb.sv|
+!i113 1
+R8
+R9
+vsegAdec
+R0
+R38
+!i10b 1
+!s100 TAflZoj5I`>lW1A>@2S5g2
+R2
+Io7DPT9kc2bIL]YT=[]0b91
+R3
+S1
+R4
+R19
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segAdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segAdec.sv
+!i122 145
+Z40 L0 3 14
+R6
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segAdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segAdec.sv|
+!i113 1
+R8
+R9
+nseg@adec
+vsegBdec
+R0
+R38
+!i10b 1
+!s100 DMU6JM=gLcTi_H0O6UizU3
+R2
+I3;P_jLhCHlJ4ZL5=[:[dF1
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segBdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segBdec.sv
+!i122 146
+L0 1 18
+R6
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segBdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segBdec.sv|
+!i113 1
+R8
+R9
+nseg@bdec
+vsegCdec
+R0
+Z41 !s110 1701384594
+!i10b 1
+!s100 EXWVmMkZPLF:c_W>;_ImK1
+R2
+INe9AKWJSz>LUfk0>ShjQ10
+R3
+S1
+R4
+R19
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segCdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segCdec.sv
+!i122 147
+L0 3 9
+R6
+r1
+!s85 0
+31
+R39
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segCdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segCdec.sv|
+!i113 1
+R8
+R9
+nseg@cdec
+vsegDdec
+R0
+R41
+!i10b 1
+!s100 G<JaH5NBM8ocohhQKhTYb0
+R2
+IGU<Qa95314H6?O:>SJU_X3
+R3
+S1
+R4
+R13
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segDdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segDdec.sv
+!i122 148
+R40
+R6
+r1
+!s85 0
+31
+Z42 !s108 1701384594.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segDdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segDdec.sv|
+!i113 1
+R8
+R9
+nseg@ddec
+vsegEdec
+R0
+Z43 !s110 1701384595
+!i10b 1
+!s100 =1>V6FhZAF9[7cRV3^mo:0
+R2
+IoKnZ[?J5:8lfPeWeWVdiz1
+R3
+S1
+R4
+R12
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segEdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segEdec.sv
+!i122 149
+L0 1 19
+R6
+r1
+!s85 0
+31
+R42
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segEdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segEdec.sv|
+!i113 1
+R8
+R9
+nseg@edec
+vsegFdec
+R0
+R43
+!i10b 1
+!s100 fHflWl`gaL9FNX_gf0@lj2
+R2
+IR`4PhEXO^goK8D8?z19zj1
+R3
+S1
+R4
+R28
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segFdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segFdec.sv
+!i122 150
+Z44 L0 3 11
+R6
+r1
+!s85 0
+31
+Z45 !s108 1701384595.000000
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segFdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segFdec.sv|
+!i113 1
+R8
+R9
+nseg@fdec
+vsegGdec
+R0
+R43
+!i10b 1
+!s100 DnfHSn:c@9:o4dIPH;nEV2
+R2
+Id2D8e@;FPjIg62MPW;4k72
+R3
+S1
+R4
+R12
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segGdec.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segGdec.sv
+!i122 151
+R44
+R6
+r1
+!s85 0
+31
+R45
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segGdec.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/segGdec.sv|
+!i113 1
+R8
+R9
+nseg@gdec
+vstate5_reg
+R0
+R43
+!i10b 1
+!s100 ^Y2FJSlh;EkAKElmC;Q?g0
+R2
+I4SaQ1<2XdX18@6zcVC`i62
+R3
+S1
+R4
+w1699566267
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg.sv
+!i122 152
+L0 11 33
+R6
+r1
+!s85 0
+31
+R45
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg.sv|
+!i113 1
+R8
+R9
+vstate5_reg_tb
+R0
+R43
+!i10b 1
+!s100 JPUfDjgI<0?LEzZzVEhAZ0
+R2
+INTMJ:e5o=@DVWI2=G7bio2
+R3
+S1
+R4
+R18
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg_tb.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg_tb.sv
+!i122 153
+R20
+R6
+r1
+!s85 0
+31
+R45
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/state5_reg_tb.sv|
+!i113 1
+R8
+R9
+vtime_reg
+R0
+!s110 1701384596
+!i10b 1
+!s100 zaj_FD0bH4<:D<;WeZja52
+R2
+I[=egGPfY:AzTT00V0Y9=F3
+R3
+S1
+R4
+R10
+8C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/time_reg.sv
+FC:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/time_reg.sv
+!i122 154
+L0 5 102
+R6
+r1
+!s85 0
+31
+R45
+!s107 C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/time_reg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/kharr/OneDrive/Desktop/ECE 352/AHW5/time_reg.sv|
+!i113 1
+R8
+R9
